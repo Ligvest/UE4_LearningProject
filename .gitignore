@@ -1,0 +1,11 @@
+# Generatable folders #
+###################
+Binaries
+DerivedDataCache
+Intermediate
+.vs
+
+# Generatable files #
+###################
+*.sln
+*BuiltData.uasset
